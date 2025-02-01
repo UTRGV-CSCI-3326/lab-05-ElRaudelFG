@@ -21,7 +21,7 @@ public class Input{
         boolean isSmoker = scanner.nextBoolean();
 
         //user information
-        System.out.println("\n---Medial Information---");
+        System.out.println("\n---Medical Information---");
         System.out.println("Full Name: " + name);
         System.out.println("Age: " + age);
         System.out.println("Weight (kg): " + weight);
